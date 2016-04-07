@@ -17,8 +17,8 @@ keywords:
   - laid
   - clients
 description: "We're currently in LA meeting with prospective clients and searching for a new creative space we can call home. Our first location preference for creative office space was Venice beach. The vibes there are exactly what we like, laid back, plant-based and abundant surf/skate culture."
-datePublished: '2016-04-07T06:19:34.103Z'
-dateModified: '2016-04-07T06:18:50.591Z'
+datePublished: '2016-04-07T07:51:50.472Z'
+dateModified: '2016-04-07T06:29:58.454Z'
 author: []
 related:
   - score: 0.5414210558
