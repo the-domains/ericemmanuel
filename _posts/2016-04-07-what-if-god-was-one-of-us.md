@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-07T06:33:54.790Z'
-dateModified: '2016-04-07T06:33:43.989Z'
+description: Trying to make his way home
+datePublished: '2016-04-07T06:42:14.028Z'
+dateModified: '2016-04-07T06:33:59.095Z'
+title: What if God was one of us.
+author: []
+sourcePath: _posts/2016-04-07-what-if-god-was-one-of-us.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: What if God was one of us.
-author: []
-sourcePath: _posts/2016-04-07-what-if-god-was-one-of-us.md
-published: true
 url: what-if-god-was-one-of-us/index.html
 _type: Article
 
