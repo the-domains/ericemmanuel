@@ -1,7 +1,7 @@
 name: ericemmanuel
 favicon: null
 layout_spectrum: 0.25556
-typography_spectrum: 0.25184
+typography_spectrum: 0.05764
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#0b090a'
-    - '#4e4b46'
-    - '#cdcfce'
-    - '#8398ab'
+    - '#8f8073'
+    - '#12130f'
+    - '#eae6e5'
+    - '#8fcb9b'
+    - '#496d62'
   brandStrength: 0.6875
   lightness: 0.6875
   saturation: 0.75
-  rhythmicContrast: 0.9318992705084383
+  rhythmicContrast: 1
 purpose: []
