@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ericemmanuel]]></title>
+        <description><![CDATA[ericemmanuel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 07:50:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Perspective Change]]></title>
+            <description><![CDATA[<article><h1>Perspective Change</h1><p>I discovered this video after binging on Instagram one faithful evening.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/140da7ba5dc62d787ff01f5936e3424364a20bc5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=VYYXq1Ox4sk</link>
+            <guid isPermaLink="false">80655d8d-09eb-4b5d-a073-aaa80a335df7</guid>
+            <pubDate>Tue, 12 Apr 2016 07:50:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
