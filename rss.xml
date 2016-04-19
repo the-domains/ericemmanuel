@@ -4,8 +4,15 @@
         <description><![CDATA[The Journal]]></description>
         <link>https://thegrid.ai/ericemmanuel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 09:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 09:35:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ericemmanuel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Spiritual Recharge]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/780eb305-c291-40bb-a110-06e873b904b0.jpg">]]></description>
+            <link>https://thegrid.ai/ericemmanuel/a-spiritual-recharge/index.html</link>
+            <guid isPermaLink="false">25915e48-c903-44d4-bb11-88a93e11a099</guid>
+            <pubDate>Tue, 19 Apr 2016 09:34:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe52ae8c-868d-49cc-9642-45b0709aea51.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ericemmanuel/to-briefly-escape-your-surroundings/index.html</link>
             <guid isPermaLink="false">ff1a00b6-f52d-43cf-b619-f253f20d730c</guid>
             <pubDate>Tue, 12 Apr 2016 08:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bruce Lipton - 'The Power Of Consciousness' - Interview by Iain McNay]]></title>
-            <description><![CDATA[<article><h1>Bruce Lipton - 'The Power Of Consciousness' - Interview by Iain McNay</h1><p>I discovered this video after binging on Instagram one faithful evening.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/140da7ba5dc62d787ff01f5936e3424364a20bc5.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=VYYXq1Ox4sk</link>
-            <guid isPermaLink="false">80655d8d-09eb-4b5d-a073-aaa80a335df7</guid>
-            <pubDate>Tue, 12 Apr 2016 07:50:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
