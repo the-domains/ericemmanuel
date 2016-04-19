@@ -1,8 +1,7 @@
+name: eric emmanuel
+favicon: null
 layout_spectrum: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.08861437
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.75
-  brandStrength: 0.6875
-  rhythmicContrast: 1
   brandColors:
     - '#8f8073'
     - '#12130f'
     - '#eae6e5'
     - '#8fcb9b'
     - '#496d62'
+  brandStrength: 0.6875
   lightness: 0.6875
-typography_spectrum: 0.08861437
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: ericemmanuel
+  saturation: 0.75
+  rhythmicContrast: 1
+purpose: []
