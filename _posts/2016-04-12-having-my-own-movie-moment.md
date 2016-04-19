@@ -17,8 +17,8 @@ keywords:
   - cuarn
   - clip
 description: "Since the moment this movie ended I've desired to take an adventure to the beaches of mexico hoping to find clearity."
-datePublished: '2016-04-12T09:35:37.263Z'
-dateModified: '2016-04-12T09:34:11.101Z'
+datePublished: '2016-04-19T08:49:08.595Z'
+dateModified: '2016-04-19T08:48:04.791Z'
 author:
   - name: Movieclips
     url: 'https://www.youtube.com/user/movieclips'
@@ -61,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Having my own movie moment
+title: Y Tu Mamá También (12/12) Movie CLIP - Life Is Like the Surf (2001) HD
+sourcePath: _posts/2016-04-12-having-my-own-movie-moment.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-12-having-my-own-movie-moment.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
