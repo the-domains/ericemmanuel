@@ -1,4 +1,4 @@
-name: The Journal
+name: So far beta Grid Sucks
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.08861437
@@ -35,7 +35,7 @@ color:
     - '#8fcb9b'
     - '#496d62'
   brandStrength: 0.6875
-  lightness: 0.6875
-  saturation: 0.75
+  lightness: 0.625
+  saturation: 0.6875
   rhythmicContrast: 1
 purpose: []
