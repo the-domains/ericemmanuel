@@ -4,8 +4,15 @@
         <description><![CDATA[The Journal]]></description>
         <link>https://thegrid.ai/ericemmanuel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 09:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 23:37:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ericemmanuel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MITM covers Janet Jackson and Blackstreet]]></title>
+            <description><![CDATA[<article><h1>MITM covers Janet Jackson and Blackstreet</h1><p>Overthinking. Risking it all?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f98e9d9ad0d9f3a4fdaaa1e03fcc2786c0ce2337.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ksDvRw67Yrg</link>
+            <guid isPermaLink="false">2c1dd7a9-6c7e-44d1-93d3-19ffca970f72</guid>
+            <pubDate>Wed, 20 Apr 2016 23:36:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Spiritual Recharge]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/780eb305-c291-40bb-a110-06e873b904b0.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/ericemmanuel/8a182d80-f6cc-48fa-a901-2a683f070722/index.html</link>
             <guid isPermaLink="false">8a182d80-f6cc-48fa-a901-2a683f070722</guid>
             <pubDate>Tue, 12 Apr 2016 09:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To briefly escape your surroundings]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de28795b-25ff-4a98-80c2-028896d091fe.jpg">]]></description>
-            <link>https://thegrid.ai/ericemmanuel/to-briefly-escape-your-surroundings/index.html</link>
-            <guid isPermaLink="false">ff1a00b6-f52d-43cf-b619-f253f20d730c</guid>
-            <pubDate>Tue, 12 Apr 2016 08:45:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
