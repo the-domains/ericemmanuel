@@ -17,8 +17,8 @@ keywords:
   - rit
   - snippet
 description: Overthinking. Risking it all?
-datePublished: '2016-04-20T23:36:50.965Z'
-dateModified: '2016-04-20T23:36:38.568Z'
+datePublished: '2016-04-21T00:06:04.275Z'
+dateModified: '2016-04-21T00:05:58.987Z'
 author:
   - name: Eric Emmanuel
     url: 'https://www.youtube.com/user/visionsofdblE'
@@ -82,9 +82,9 @@ Cliche right? Do it for the love and the money will come.
 
 As I'm watching a young local band debut some new material to a crowd of 40 or so, I'm reminded that **_no great art is birthed out of financial necessity. _**
 
-Maybe that could have been the case after a certain level of success had been reached, but certainly no at first.
+Maybe that could have been the case after a certain level of success had been reached, but certainly not at first.
 
-These young musicians undoubtably have other ways to financially support them and probably devout a majority of their free time to their craft. **It's evident by the quality of their sound. **
+These young musicians undoubtably have other ways to financially support themselves and probably devout a majority of their free time to their craft. **It's evident by the quality of their sound. **
 
 Giving thanks are in order for the experience and the reminder that devotion to your craft and/or love,against all else, is truly living. 
 
