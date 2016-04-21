@@ -1,7 +1,7 @@
 name: So far beta Grid Sucks
 favicon: null
 layout_spectrum: 0.99622
-typography_spectrum: 0.08861437
+typography_spectrum: 0.7768
 collections:
   - index:
       path: /
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.6875
   lightness: 0.625
   saturation: 0.6875
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
